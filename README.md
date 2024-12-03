@@ -88,5 +88,5 @@ These demonstrate how the custom dataset enhances the chatbot's responses with c
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
 - **Email**: [lamiahasan4@gmail.com](lamiahasan4@gmail.com)
-- **GitHub**: [Github]([https://github.com/your-username](https://github.com/lamiazain))
+- **GitHub**: [Github](https://github.com/lamiazain)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/lamia-zain/)
