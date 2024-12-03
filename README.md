@@ -43,12 +43,7 @@ pip install tiktoken
     cd openai-custom-chatbot
     ```
 
-2. Install the required Python dependencies:
-    ```bash
-    pip install openai pandas requests
-    ```
-
-3. Set up your OpenAI API Key as an environment variable:
+2. Set up your OpenAI API Key as an environment variable:
     ```bash
     export OPENAI_API_KEY='your-api-key'
     ```
